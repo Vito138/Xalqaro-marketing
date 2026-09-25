@@ -1,0 +1,659 @@
+[
+  {
+    "question": "Global bozorni mamlakatlar guruhlari bo'yicha segmentlash?",
+    "correct": "bir xil iqtisodiy va madaniy rivojlanishdagi mamlakatlarni guruhlash",
+    "options": [
+      "tovarlarni tashqi bozor talablariga maksimal moslashtirish",
+      "turli mamlakatlarda universal segmentni aniqlash",
+      "bir xil iqtisodiy va madaniy rivojlanishdagi mamlakatlarni guruhlash"
+    ]
+  },
+  {
+    "question": "Bozor segmentatsiyasi.... deb nomlanadi:",
+    "correct": "korxonadan taklif etilgan tovarga nisbatan bir xil talab, afzallik, xatti-harakatlar, maqsadli istemolchilar guruhini ajratish",
+    "options": [
+      "korxonadan taklif etilgan tovarga nisbatan bir xil talab, afzallik, xatti-harakatlar, maqsadli istemolchilar guruhini ajratish",
+      "bozorda ishlab chiqaruvchilar ulushini ajratish",
+      "bozorda yanada yuqori talabga ega bo'lgan tovar guruhlarini ajratish"
+    ]
+  },
+  {
+    "question": "Segmentlarning jozibadorligini baholashda qaysi usulni qo'llash maqsadga muvofiq?",
+    "correct": "reyting usuli",
+    "options": [
+      "nazorat qilish usuli",
+      "ekspert usuli",
+      "reyting usuli"
+    ]
+  },
+  {
+    "question": "Savdoning tashkiliy tuzilmasiga ko'ra jahon bozorni turlari?",
+    "correct": "ochiq bozor, yopiq bozor, preferentsial bozor",
+    "options": [
+      "xizmatlar bozori, iste'mol tovarlari bozori",
+      "ichki bozor, xududiy bozor, milliy bozor",
+      "ochiq bozor, yopiq bozor, preferentsial bozor"
+    ]
+  },
+  {
+    "question": "Marketingda iste'molchilar deganda tushuniladi:",
+    "correct": "tovar yoki xizmatni sotib olish zarurati yoki istagini belgilovchi shaxs",
+    "options": [
+      "tovar yoki xizmatni sotib olish zarurati yoki istagini belgilovchi shaxs",
+      "o'z ehtiyojini qondiruvchi bozor subekti",
+      "bevosita xaridni amalga oshiruvchi shaxs"
+    ]
+  },
+  {
+    "question": "Xalqaro bozorni tadqiq qilishning asosiy vazifasi - bu?",
+    "correct": "axborot yig'ish",
+    "options": [
+      "axborot yig'ish",
+      "segmentlash",
+      "qayta ishlash"
+    ]
+  },
+  {
+    "question": "Xalqaro marketingda tovar siyosatini rejalashtirishdagi asosiy muammo nimadan iborat? Marketing tadqiqotlarining vazifalari nimalardan iborat?",
+    "correct": "tovarni xorijiy bozor talablariga moslash; asosiy muammoni aniqlash, yechim natijasining sababi va zarurati bilan belgilanadi",
+    "options": [
+      "kadrlar muammosi; xaridorlarni xulq-atvorini o'rganish",
+      "tovar qadoqlashning standartlariga moslash; talab va taklif nisbatini o'rganish",
+      "tovarni xorijiy bozor talablariga moslash; asosiy muammoni aniqlash, yechim natijasining sababi va zarurati bilan belgilanadi"
+    ]
+  },
+  {
+    "question": "Ochiq bozor deb nimaga aytiladi?",
+    "correct": "bir-biri bilan cheklanmagan doirada tijorat faoliyati orqali bog'langan mustaqil sotuvchi va xaridorlar",
+    "options": [
+      "uchinchi davlat bilan maxsus kelishuv asosida bog'langan",
+      "uzoq muddatli shartnomalar asosidagi savdo kelishuvlari",
+      "bir-biri bilan cheklanmagan doirada tijorat faoliyati orqali bog'langan mustaqil sotuvchi va xaridorlar"
+    ]
+  },
+  {
+    "question": "Tashqi savdo kontraktlarida sifatga oid qanday eslatma qo'llaniladi?",
+    "correct": "jahon standartlariga mosligi",
+    "options": [
+      "tasvirlanish",
+      "jahon standartlariga mosligi",
+      "namuna"
+    ]
+  },
+  {
+    "question": "Xaridor bozori quyidagi holatda bozordagi vaziyatni boshqaradi...",
+    "correct": "taklif talabdan oshsa",
+    "options": [
+      "taklif talabdan oshsa",
+      "Iste'molchilar soni ko'p bo'lsa",
+      "talab taklifdan oshsa."
+    ]
+  },
+  {
+    "question": "Marketing tadqiqotlarini o'tkazishda eng ahamiyatli mezon...",
+    "correct": "tashqi muhit",
+    "options": [
+      "bozor segmentatsiyasi",
+      "ichki muhit",
+      "tashqi muhit"
+    ]
+  },
+  {
+    "question": "Korxonaning tovar siyosatining maqsadi nimadan iborat?",
+    "correct": "ehtiyojni qondirishga qaratilgan tovarni bozorga taklif etish",
+    "options": [
+      "assortiment siyosati",
+      "innovatsiya siyosati",
+      "ehtiyojni qondirishga qaratilgan tovarni bozorga taklif etish"
+    ]
+  },
+  {
+    "question": "Pozitsiyalashning asosiy maqsadi nimadan iborat?",
+    "correct": "mustaqil bozor segmentlarida tovar mahsulotini raqobatbardoshlik afzalligini oshirishdan iborat",
+    "options": [
+      "mustaqil bozor segmentlarida tovar mahsulotini raqobatbardoshlik afzalligini oshirishdan iborat",
+      "tovarni bozorda joylashtirish",
+      "raqibga nisbatan ustunlikka ega bo'lish"
+    ]
+  },
+  {
+    "question": "Tashqi savdo kim tomonidan tartibga solinadi?",
+    "correct": "davlat tomonidan",
+    "options": [
+      "miliy ishlab chiqaruvchilar tomonidan",
+      "davlat tomonidan",
+      "xalqaro eksportchilar tomonidan"
+    ]
+  },
+  {
+    "question": "Bozor nima?",
+    "correct": "U mavjud va potensial xaridorlar yig'indisidir",
+    "options": [
+      "U mavjud va potensial xaridorlar yig'indisidir",
+      "U sotuvchilar ishtirok yetadagan joydir",
+      "U xaridorlar va raqobatchilar yig'iladigan joy"
+    ]
+  },
+  {
+    "question": "Marketing tadqiqotlarini o'tkazishning asosiy tamoyillari nimalardan iborat?",
+    "correct": "komplekslilik, aniqlik, tejamkorlik, muntazamlik, sinchkovlik, tezkorlik",
+    "options": [
+      "komplekslilik, aniqlik, tejamkorlik, muntazamlik, sinchkovlik, tezkorlik",
+      "harajatlarning kamaytirilishi, ob'ektivlik",
+      "ma'lumotlarni to'g'ri to'plash"
+    ]
+  },
+  {
+    "question": "Milliy iqtisodiyotni rivojlantirishda marketing tadqiqotlarining ahamiyati nimalardan iborat?",
+    "correct": "milliy bozorni tovarlar bilan to'ldirish, korxonalarning eksport salohiyatini oshirish, tovarlarni sifatli ishlab chiqarish",
+    "options": [
+      "milliy bozorni tovarlar bilan to'ldirish, korxonalarning eksport salohiyatini oshirish, tovarlarni sifatli ishlab chiqarish",
+      "iste'molchilar ehtiyojini qondirish",
+      "korxonalarni strategiyasini ishlab chiqish uchun"
+    ]
+  },
+  {
+    "question": "Xalqaro marketing tadqiqotlar usuliga nima kiradi?",
+    "correct": "ekspert baholash",
+    "options": [
+      "statistika",
+      "publikatsiya",
+      "ekspert baholash"
+    ]
+  },
+  {
+    "question": "Eksport tovarlariga qo'yiladigan bojlar qanday ataladi?",
+    "correct": "eksport boji",
+    "options": [
+      "tranzit boji",
+      "eksport boji",
+      "import boji"
+    ]
+  },
+  {
+    "question": "Tovarni bozorda pozitsiyalash deganda nimani tushunasiz?",
+    "correct": "iste'molchilar ongida tovar taklifi raqiblar taklifidan ustuvor, degan fikrni uyg'otishga qaratilgan marketing amaliyotidir",
+    "options": [
+      "iste'molchilar ongida tovar taklifi raqiblar taklifidan ustuvor, degan fikrni uyg'otishga qaratilgan marketing amaliyotidir",
+      "tovarni bozorda faol joylashtirish",
+      "tovarni passiv joylashtirish"
+    ]
+  },
+  {
+    "question": "Reeksport operatsiyalari nimani nazarda tutadi?",
+    "correct": "mamlakatga olib kirilgan tovarlarni qayta ishlovsiz olib ketish",
+    "options": [
+      "eksport qilish",
+      "mamlakatga olib kirilgan tovarlarni qayta ishlovsiz olib ketish",
+      "tovarlarni qayta olib ketish"
+    ]
+  },
+  {
+    "question": "Xalqaro marketing mohiyati:",
+    "correct": "xorijda tovarlarni sotish bilan bog'liq kompleks tadbirlar",
+    "options": [
+      "axborotni qayta ishlash",
+      "xorijda tovarlarni sotish bilan bog'liq kompleks tadbirlar",
+      "mavsumiy boj"
+    ]
+  },
+  {
+    "question": "Bozorni geografik ko'rsatkichlari bo'yicha segmentlashda nimalar hisobga olinadi?",
+    "correct": "kontinent, mamlakat, hudud, viloyat, shahar, aholi zichligi, iqlimi",
+    "options": [
+      "rivojlanayotgan mamlakat ekanligi",
+      "yoshi, jinsi, oilaning hayotiy sikli",
+      "kontinent, mamlakat, hudud, viloyat, shahar, aholi zichligi, iqlimi"
+    ]
+  },
+  {
+    "question": "Bojxona tarifining maqsadi?",
+    "correct": "import tovar strukturasini ratsionallashtirish",
+    "options": [
+      "eksportni qayta tizimlash",
+      "import tovar strukturasini ratsionallashtirish",
+      "eksportga turli cheklovlar qo'yish"
+    ]
+  },
+  {
+    "question": "Proteksionizm strategiyasi ma'nosi nima?",
+    "correct": "o'z tovar bozorini himoya qilishga asoslanadi",
+    "options": [
+      "davlatlarning siyosiy jihatdan o'rganish",
+      "o'z tovar bozorini himoya qilishga asoslanadi",
+      "tashqi savdoni erkinlashtirish"
+    ]
+  },
+  {
+    "question": "Strategik ittifoq nimani anglatadi?",
+    "correct": "bir necha kompaniyalarni o'rtasidagi partnerlik aloqalari",
+    "options": [
+      "xodimlar o'rtasidagi hamkorlik",
+      "narxni tartibga solish usuli",
+      "bir necha kompaniyalarni o'rtasidagi partnerlik aloqalari"
+    ]
+  },
+  {
+    "question": "Bozorning qanday turlari mavjud?",
+    "correct": "jahon, hududiy, milliy, mahalliy, ayrim tovarlar va xizmatlar bozori",
+    "options": [
+      "sotuvchi va iste'molchi bozori",
+      "xaridor bozori",
+      "jahon, hududiy, milliy, mahalliy, ayrim tovarlar va xizmatlar bozori"
+    ]
+  },
+  {
+    "question": "Bozorni segmentlashning qanday yo'li mavjud?",
+    "correct": "makrosegmentlash va mikrosegmentlash",
+    "options": [
+      "bevosita segmentlash yo'li, bilvosita segmentlash yo'li",
+      "makrosegmentlash va mikrosegmentlash",
+      "yakuniy segmentlash, avvaldan segmentlash"
+    ]
+  },
+  {
+    "question": "Barcha yoki ko'plab mamlakatlarda qo'llaniladigan xalqaro bozor segmentatsiyasi?",
+    "correct": "turli mamlakatlarda universal segmentni aniqlash",
+    "options": [
+      "mamlakatlarni guruhlash",
+      "turli mamlakatlarda universal segmentni aniqlash",
+      "tovarlarni tashqi bozor talablariga maksimal moslashtirish"
+    ]
+  },
+  {
+    "question": "Xalqaro savdo tizimi - bu:?",
+    "correct": "dunyodagi barcha mamlakatlarning tashqi savdoni yig'indisi",
+    "options": [
+      "bir davlatning tashqi savdosi",
+      "dunyodagi barcha mamlakatlarning tashqi savdoni yig'indisi",
+      "alohida mamlakatlar marketing muhitlarini yig'indisi"
+    ]
+  },
+  {
+    "question": "Ulgurji savdo nima?",
+    "correct": "tovar va xizmatlarni katta miqdorda, yirik partiyalarda sotish",
+    "options": [
+      "tovar va xizmatlarni katta miqdorda, yirik partiyalarda sotish",
+      "tovarlarni do'konlarda sotish",
+      "tovarlarni chakanalab sotish"
+    ]
+  },
+  {
+    "question": "Tahliliy bashorat usullariga quyidagilar kiradi:",
+    "correct": "iqtisodiy-statistik, iqtisodiy matematik modellashtirish, chiziqli dasturlash, ehtimollar nazariyasi, ekspertiza",
+    "options": [
+      "iqtisodiy-statistik, iqtisodiy matematik modellashtirish, chiziqli dasturlash, ehtimollar nazariyasi, ekspertiza",
+      "kompleks yondashuv, tizimli tahlil, ekologiya",
+      "antropologiya, iqtisodiy matematik modellashtirish, ehtimollar nazariyasi"
+    ]
+  },
+  {
+    "question": "Marketing tadqiqotining maqsadi bu...",
+    "correct": "marketingning axborot-tahliliy ehtiyojlarini qondirishga yo'naltirilgan har qanday tadqiqotchilik faoliyatidir",
+    "options": [
+      "korxona istiqbolini ko'zlash",
+      "iste'molchilarni o'rganish",
+      "marketingning axborot-tahliliy ehtiyojlarini qondirishga yo'naltirilgan har qanday tadqiqotchilik faoliyatidir"
+    ]
+  },
+  {
+    "question": "Ayirboshlash nima?",
+    "correct": "biron-bir shaxsdan o'ziga kerakli bo'lgan ob'ektni olish uchun uning evaziga biron- bir narsani taklif etish akti (harakati)",
+    "options": [
+      "biron-bir shaxsdan o'ziga kerakli bo'lgan ob'ektni olish uchun uning evaziga biron- bir narsani taklif etish akti (harakati)",
+      "bozordagi tovarlar harakati",
+      "iste'molchilarni bozordan tovar olish bo'yicha qiladigan harakati"
+    ]
+  },
+  {
+    "question": "Bozorda istemolchilarning xatti-harakatlarini qaysi omillar guruhi bilan aniqlanadi?",
+    "correct": "shaxsiy, ijtimoiy, madaniy va psixologik omillar bilan",
+    "options": [
+      "shaxsiy, ijtimoiy, madaniy va psixologik omillar bilan",
+      "ijtimoiy va psixologik omillar",
+      "shaxsiy va madaniy omillar"
+    ]
+  },
+  {
+    "question": "Kon'yunktura nima?",
+    "correct": "bu bozorda ma'lum bir vaqtda yuzaga kelgan iqtisodiy holatdir",
+    "options": [
+      "bozorda kelayotgan talabdan iboratdir",
+      "bu bozorda ma'lum bir vaqtda yuzaga kelgan iqtisodiy holatdir",
+      "vujudga keladigan taklifdan iboratdir"
+    ]
+  },
+  {
+    "question": "Marketing tadqiqotlarida eng keng tarqalgan uslub bu-?",
+    "correct": "so'rov",
+    "options": [
+      "kuzatuv",
+      "so'rov",
+      "qiyoslash"
+    ]
+  },
+  {
+    "question": "Litsenziyalash nima? Narxni shakllantirishga qanday omillar ta'sir etadi?",
+    "correct": "kapital investitsiya orqali ishlab chiqarish korxonasini ochish usuli; talab omillari, xarajat omillari, raqobat omillari",
+    "options": [
+      "daromadni legallashtirish usuli; xarajat omillari",
+      "kapital investitsiya orqali ishlab chiqarish korxonasini ochish usuli; talab omillari, xarajat omillari, raqobat omillari",
+      "xorijiy bozorida kapital investitsiya qilmasdan ishlab chiqarish korxonasi ochish usuli; raqobat omillari"
+    ]
+  },
+  {
+    "question": "Dala tadqiqotlari bu...?",
+    "correct": "turli so'rovlar, kuzatishlar, anketalar va tajribalar ma'lumotlarni to'plash",
+    "options": [
+      "tegishli strategiyani ishlab chiqish",
+      "xonada oʻtkaziladigan tadqiqot",
+      "turli so'rovlar, kuzatishlar, anketalar va tajribalar ma'lumotlarni to'plash"
+    ]
+  },
+  {
+    "question": "Xalqaro strategik alyanslar quyidagi hollarda tashkil etiladi?",
+    "correct": "operatsiyalarini o'tkazish arzonga tushadi",
+    "options": [
+      "operatsiyalarini o'tkazish arzonga tushadi",
+      "chet elga foydani olib chiqish cheklanadi",
+      "kompaniyalar bir xil mahsulot ishlab chiqaradilar"
+    ]
+  },
+  {
+    "question": "Xalqaro marketingning maqsadi nimada?",
+    "correct": "xorijiy bozorlarni kompaniya tomonidan ekspansiya qilish",
+    "options": [
+      "statistika",
+      "kredit foizi",
+      "xorijiy bozorlarni kompaniya tomonidan ekspansiya qilish"
+    ]
+  },
+  {
+    "question": "Bozor segmentatsiyasi nima?",
+    "correct": "bu bozorni aniq xaridorlar guruhiga bo'lishidir",
+    "options": [
+      "tovarlar guruhiga bo'lish",
+      "bu bozorni aniq xaridorlar guruhiga bo'lishidir",
+      "raqobatchilarni guruhlash"
+    ]
+  },
+  {
+    "question": "Xalqaro bozorga korxona qanday usul bilan chiqa olmaydi?",
+    "correct": "import",
+    "options": [
+      "qo'shma korxona",
+      "eksport",
+      "import"
+    ]
+  },
+  {
+    "question": "Tarif nima?",
+    "correct": "import uchun qo'yiladigan bojlar",
+    "options": [
+      "kompaniya turi",
+      "import uchun qo'yiladigan bojlar",
+      "talabni baholash usuli"
+    ]
+  },
+  {
+    "question": "Bozorda xalqaro marketing sub'yektlari bo'lib?",
+    "correct": "xalqaro faoliyat olib boruvchi firmalar, transmilliy kompaniyalar",
+    "options": [
+      "kichik biznes va xususiy tadbirkorlik sub'ektlari",
+      "ichki bozorda faoliyat ko'rsatuvchi korxonalar",
+      "xalqaro faoliyat olib boruvchi firmalar, transmilliy kompaniyalar"
+    ]
+  },
+  {
+    "question": "Marketing asosiy tamoyillari nimalardan iborat?",
+    "correct": "bozorni bilish, bozorga moslashish, bozorga ta'sir o'tkazish",
+    "options": [
+      "o'zaro aloqadorlik",
+      "uzluksiz, davriylik, doimiylik",
+      "bozorni bilish, bozorga moslashish, bozorga ta'sir o'tkazish"
+    ]
+  },
+  {
+    "question": "Marketing qanday tizimni ifodalaydi?",
+    "correct": "ishlab chiqarish -sotish",
+    "options": [
+      "ishlab chiqarish -sotish",
+      "sotish",
+      "ishlab chiqarish"
+    ]
+  },
+  {
+    "question": "Tovar assortimentini kengaytirishdan asosiy maqsad nima? Marketing kompleksi elementlariga nimalar kiradi?",
+    "correct": "bozorning turli segmentlariga chuqurroq kirib borish; tamoyillar, funktsiyalar, maqsadlar",
+    "options": [
+      "foyda miqdorini oshirish; tovar, baho, taqsimot, kommunikatsiya, boshqalar",
+      "istemolchilar talabini qondirish; rejalar, strategiyalar",
+      "bozorning turli segmentlariga chuqurroq kirib borish; tamoyillar, funktsiyalar, maqsadlar"
+    ]
+  },
+  {
+    "question": "Mahsulotni xaridorlarga yetkazish deganda nimani tushunasiz?",
+    "correct": "ishlab chiqarishdan to xaridorlarga sotish kanallari orqali yetkazish",
+    "options": [
+      "ishlab chiqarishdan to xaridorlarga sotish kanallari orqali yetkazish",
+      "omborlarga joylashtirish orqali",
+      "ulgurji savdo orqali"
+    ]
+  },
+  {
+    "question": "Ehtiyoj qanday aniqlanadi?",
+    "correct": "iste'molchilarning didi, istagi va xoxishi orqali",
+    "options": [
+      "bozordagi talab hajmiga qarab",
+      "daromadiga qarab",
+      "iste'molchilarning didi, istagi va xoxishi orqali"
+    ]
+  },
+  {
+    "question": "Raqobatbardoshlik qanday omillar hisobiga shakllantiriladi?",
+    "correct": "ichki omillar, tashqi omillar",
+    "options": [
+      "iqtiqodiy omillar, ichki omillar",
+      "madaniy omillar, ijtimoiy omillar",
+      "ichki omillar, tashqi omillar"
+    ]
+  },
+  {
+    "question": "Marketing tadqiqotlarini o'tkazishda ehtiyojlar qanday aniqlanadi? Marketingning asosiy maqsadi?",
+    "correct": "talab va taklif nisbatini aniqlash; iste'molchi ehtiyojlarini samarali qondirishdir",
+    "options": [
+      "xaridorlarni to'g'ri segmentlab, daromadlar bo'yicha guruhlarga ajratish; korxonaning rentabelligini ta'minlash",
+      "talab turlarini o'rganish; foyda olishni ta'minlash",
+      "talab va taklif nisbatini aniqlash; iste'molchi ehtiyojlarini samarali qondirishdir"
+    ]
+  },
+  {
+    "question": "Iste'mol tovarlari bozori bu....",
+    "correct": "uy xoʻjaliklari va individual xaridorlarning o'z ehtiyojlari uchun sotib oladigan barcha tovarlar va xizmatlar",
+    "options": [
+      "uy xoʻjaliklari va individual xaridorlarning o'z ehtiyojlari uchun sotib oladigan barcha tovarlar va xizmatlar",
+      "ishlab chiqarishga mo'ljallangan barcha narsalar bozoridir",
+      "ish kuchi oldi-sotdi qilinadigan bozordir"
+    ]
+  },
+  {
+    "question": "SWOT tahlil nima?",
+    "correct": "korxonaning holati aniqlanadigan tahlil",
+    "options": [
+      "korxonaning holati aniqlanadigan tahlil",
+      "korxonaning sotish hajmi aniqlanadi",
+      "marketing stratgiyasini amalga oshiradi"
+    ]
+  },
+  {
+    "question": "Xalqaro marketing axborot tizimi qanday yordamchi tizimlardan tashkil topgan?",
+    "correct": "tashqi marketing axborot to'plash tizimi, marketing axborotlarni tahlil qilish tizimlardan",
+    "options": [
+      "birlamchi va ikkilamchi axborot tizimlardan",
+      "ichki va tashqi tizimlardan",
+      "tashqi marketing axborot to'plash tizimi, marketing axborotlarni tahlil qilish tizimlardan"
+    ]
+  },
+  {
+    "question": "Jahon bozori tushunchasi - bu?",
+    "correct": "mamlakatlarni milliy bozorlarining yig'indisi",
+    "options": [
+      "xududiy bozorlar",
+      "mamlakatlarni milliy bozorlarining yig'indisi",
+      "xorijiy bozorlar"
+    ]
+  },
+  {
+    "question": "Korxona uchun marketingning qanday funksiyalari mavjud?",
+    "correct": "tahliliy funksiya, ishlab chiqarish funksiyasi, sotish va nazorat funksiyalari",
+    "options": [
+      "tahliliy funksiya, ishlab chiqarish funksiyasi, sotish va nazorat funksiyalari",
+      "bozorni kompleks o'rganish funksiyasi",
+      "bozor segmentatsiyasini tahlil qilish funksiyasi"
+    ]
+  },
+  {
+    "question": "Bozorni qamrab olish variantlari nimalardan iborat?",
+    "correct": "demarketing, diversifikatsiya",
+    "options": [
+      "o'suvchi marketing rejalashtirish, boshqarish",
+      "demarketing, diversifikatsiya",
+      "marketing faoliyati bo'yicha tizimli axborotlar to'plami va ma'lumotlar tahlili"
+    ]
+  },
+  {
+    "question": "Xalqaro marketing muhitini qanday tavsiflash mumkin?",
+    "correct": "iqtisodiy, siyosiy, madaniy muhitlarni yig'indisi",
+    "options": [
+      "iqtisodiy, siyosiy, madaniy muhitlarni yig'indisi",
+      "milliy davlatlar muhitlari yig'indisi, global marketing muhiti",
+      "multimilliy muhiti"
+    ]
+  },
+  {
+    "question": "Marketingni boshqarish jarayonlari:",
+    "correct": "marketing imkoniyatlarini tahlil qilish, ishlab chiqish, rejalashtirish, boshqarish",
+    "options": [
+      "marketing imkoniyatlarini tahlil qilish, ishlab chiqish, rejalashtirish, boshqarish",
+      "ishlab chiqarishning texnik holati nazorati",
+      "xaridor ehtiyojini va uning muammolarini kondirish"
+    ]
+  },
+  {
+    "question": "Qanday bozor turlarini bilasiz?",
+    "correct": "iste'mol tovarlari bozori, ishlab chiqarish vositalari va resurslari, xizmat ko'rsatish, moliya, intelektual tovarlari bozori",
+    "options": [
+      "iste'mol tovarlari bozori, ishlab chiqarish vositalari va resurslari, xizmat ko'rsatish, moliya, intelektual tovarlari bozori",
+      "texnologiyalar bozori, iste'molchilar bozori, xizmatlar bozori",
+      "ishlab chiqarish bozori, xizmatlar bozori, moliya bozori,"
+    ]
+  },
+  {
+    "question": "Jahon bozorida yangi tovarni yaratish nimadan boshlanadi?",
+    "correct": "talabni shakllantirishdan",
+    "options": [
+      "talabni shakllantirishdan",
+      "loiyhalarni ishlab chiqishdan",
+      "iste'molchilarni to'lov qobiliyati shartlaridan"
+    ]
+  },
+  {
+    "question": "Kompaniyalar nima uchun marketing muhitini o'rganadi?",
+    "correct": "kompaniya uchun samarali va jalb etuvchi chet el bozorini aniqlash uchun",
+    "options": [
+      "bozorda maqsadli segmentni tanlash uchun",
+      "kompaniya rivojlanishi uchun",
+      "kompaniya uchun samarali va jalb etuvchi chet el bozorini aniqlash uchun"
+    ]
+  },
+  {
+    "question": "Tashqi bozorni qanday ikkita yo'nalish bo'yicha segmentlash mumkin?",
+    "correct": "makrodarajada va mikrodarajada",
+    "options": [
+      "mamlakatlar guruhlarini identifikatsiyalash,",
+      "makrodarajada va mikrodarajada",
+      "strategik daraja, taktik daraja"
+    ]
+  },
+  {
+    "question": "Erkin savdo strategiyasining ma'nosi nima?",
+    "correct": "tashqi savdo faoliyatini erkinlashtirishga asoslanadi",
+    "options": [
+      "mafkuraviy jihatdan o'rganish",
+      "bozorni himoya qilishga asoslanadi",
+      "tashqi savdo faoliyatini erkinlashtirishga asoslanadi"
+    ]
+  },
+  {
+    "question": "Bozorda marketing tadqiqotlarini o'tkazish deganda nimani tushunasiz?",
+    "correct": "bozor tizimini o'rganish, segmentatsiya qilish, talab va taklif tahlili, raqobat keskinligini aniqlash",
+    "options": [
+      "korxonani potentsial imkoniyatlarini aniqlash",
+      "firmani raqobatbardoshligini aniqlash",
+      "bozor tizimini o'rganish, segmentatsiya qilish, talab va taklif tahlili, raqobat keskinligini aniqlash"
+    ]
+  },
+  {
+    "question": "Marketing kompleksi nima?",
+    "correct": "bu bozorga tovarni etkazib berish uchun zarur bo'lgan marketing elementlarini optimal kombinatsiyasidir",
+    "options": [
+      "bu bozorga tovarni etkazib berish uchun zarur bo'lgan marketing elementlarini optimal kombinatsiyasidir",
+      "bu marketingni tovar va narx elementlari yig'indisidir",
+      "bu bozordagi taqsimot va kommunikatsiya kanallari yig'indisidir"
+    ]
+  },
+  {
+    "question": "Marketingning asosiy qoidasi nima?",
+    "correct": "iste'molchi bozorda qirol",
+    "options": [
+      "ishlab chiqaruvchi qirol",
+      "iste'molchi bozorda qirol",
+      "talabning ustunligi"
+    ]
+  },
+  {
+    "question": "Bozorni mahsulot ko'rsatkichlari bo'yicha segmentlash qachon foydalaniladi?",
+    "correct": "yangi mahsulot chiqarishda",
+    "options": [
+      "iste'molchilar haqida malumotlar yo'q bo'lganda",
+      "yangi mahsulot chiqarishda",
+      "tovarni bozorda joylashtirishda"
+    ]
+  },
+  {
+    "question": "Brend xalqaro marketing kompleksining qaysi elementiga kiradi?",
+    "correct": "tovar siyosati",
+    "options": [
+      "tarqatish tizimi",
+      "narx siyosati",
+      "tovar siyosati"
+    ]
+  },
+  {
+    "question": "Tovar siyosatida nimalarga e'tibor qaratiladi?",
+    "correct": "assortiment siyosati, innovatsion siyosat, servis siyosati",
+    "options": [
+      "tovar variatsiyasi",
+      "assortiment siyosati, innovatsion siyosat, servis siyosati",
+      "tovar differentsiatsiyasi"
+    ]
+  },
+  {
+    "question": "Shartnomaning barcha shartlarini quyidagicha tavsiflash mumkin:",
+    "correct": "sotuvchi va xaridor uchun ularning majburiyligi nuqtai nazardan",
+    "options": [
+      "sotuvchi va xaridor uchun ularning majburiyligi nuqtai nazardan",
+      "yagonaligi nuqtai nazardan",
+      "universalligi nuqtai nazardan"
+    ]
+  },
+  {
+    "question": "Marketingning asosiy vazifalari nimalardan iborat?",
+    "correct": "bozorni kompleks o'rganish va maqsadga erishish",
+    "options": [
+      "bozorni kompleks o'rganish va maqsadga erishish",
+      "reklamadan foydalanish",
+      "mahsulot ishlab chiqarishini nazorat qilish"
+    ]
+  }
+]
